@@ -6,3 +6,19 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+main_gradient {
+    background-image: linear-gradient( 65deg, hsl(347deg 45% 33%) 0%, hsl(340deg 42% 32%) 12%, hsl(334deg 39% 30%) 26%, hsl(327deg 34% 29%) 39%, hsl(317deg 29% 27%) 53%, hsl(305deg 23% 26%) 66%, hsl(288deg 21% 25%) 78%, hsl(272deg 19% 24%) 89%, hsl(258deg 17% 24%) 97%, hsl(244deg 15% 23%) 100%);
+    /*HOLY FUCK THIS IS A BIG MF*/
+}
+
+.img_main {
+    max-width: 60ch;
+    max-height: 60ch;
+    width: min-device-width;
+    height: min-device-width;
+}
+
+.text_about_me {
+    color: aliceblue;
+}
